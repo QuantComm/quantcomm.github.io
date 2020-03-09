@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | The Northwest Ohio Association for Quantitative Communication</title>
+    <link>quantcomm.github.io/authors/</link>
+      <atom:link href="quantcomm.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 14 Feb 2020 16:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Authors</title>
+      <link>quantcomm.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>quantcomm.github.io/authors/admin/</link>
+      <pubDate>Fri, 14 Feb 2020 16:00:00 +0000</pubDate>
+      <guid>quantcomm.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I grew up as a musician in California and then served for several years in the Marine Corps. After college, I was an equity analyst on the buy side in New England. I am not a quant although I do believe that quantitative methods should be used to augment analyst capabilities rather than replace them.&lt;/p&gt;
+&lt;p&gt;I am active on various platforms under the nom de guerre ProbablePattern. For anyone curious about my Interwebz handle, it alludes to the inability of empirical evidence to provide absolute certainty. For a mathy explanation, see 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Kurt_G%C3%B6del&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;G&lt;span&gt;ö&lt;/span&gt;del&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>quantcomm.github.io/authors/gerardthompson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>quantcomm.github.io/authors/gerardthompson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>quantcomm.github.io/authors/qinshao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>quantcomm.github.io/authors/qinshao/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
